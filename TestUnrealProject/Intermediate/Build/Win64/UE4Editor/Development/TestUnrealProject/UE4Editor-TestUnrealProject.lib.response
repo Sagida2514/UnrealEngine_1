@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TestUnrealProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Workspace\TestUnrealProject\Intermediate\Build\Win64\TestUnrealProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Workspace\TestUnrealProject\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealProject\TestUnrealProject.cpp.obj"
+"C:\Workspace\TestUnrealProject\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealProject\TestUnrealProjectGameModeBase.cpp.obj"
+"C:\Workspace\TestUnrealProject\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealProject\TestUnrealProject.init.gen.cpp.obj"
+"C:\Workspace\TestUnrealProject\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealProject\TestUnrealProjectGameModeBase.gen.cpp.obj"
+"C:\Workspace\TestUnrealProject\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealProject\Default.rc2.res"
+/OUT:"C:\Workspace\TestUnrealProject\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealProject\UE4Editor-TestUnrealProject.lib"

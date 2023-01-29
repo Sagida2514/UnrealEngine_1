@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Workspace\\TestUnrealProject\\Source\\TestUnrealProject\\TestUnrealProject.Build.cs",
+		"C:\\Workspace\\TestUnrealProject\\Source\\TestUnrealProject.Target.cs",
+		"C:\\Workspace\\TestUnrealProject\\Source\\TestUnrealProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

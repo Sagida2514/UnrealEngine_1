@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TestUnrealProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EAE14859-89A2-4ED2-8B20-CDAB1B2A12F8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestUnrealProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TestUnrealProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CB2714CC-F2A9-4A4B-9EEF-874E1B27E140}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TestUnrealProject">
+      <UniqueIdentifier>{98A6C3FC-9B80-40AF-973D-2AD3B7495FBF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestUnrealProject\TestUnrealProject.Build.cs">
+      <Filter>Source\TestUnrealProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TestUnrealProject\TestUnrealProject.cpp">
+      <Filter>Source\TestUnrealProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestUnrealProject\TestUnrealProject.h">
+      <Filter>Source\TestUnrealProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestUnrealProject\TestUnrealProjectGameModeBase.cpp">
+      <Filter>Source\TestUnrealProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestUnrealProject\TestUnrealProjectGameModeBase.h">
+      <Filter>Source\TestUnrealProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
